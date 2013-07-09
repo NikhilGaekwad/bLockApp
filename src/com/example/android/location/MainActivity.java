@@ -62,6 +62,7 @@ import java.util.Locale;
  * {@link #stopUpdates} cancels previous periodic update requests.
  *
  * The update interval is hard-coded to be 5 seconds.
+ * test
  */
 public class MainActivity extends FragmentActivity implements
         LocationListener,
